@@ -1,5 +1,5 @@
 # bringYourCupboardOrOfficeInABikeContainer
-Inspired by the Armadillo cargo bike, from http://velove.se/
+Just 2 applications of https://www.velove.se/containerisation-last-mile-solution :
 
 2 examples of how this would save time and stress:
 
