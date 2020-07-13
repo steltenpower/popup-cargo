@@ -1,8 +1,5 @@
 # bringYourCupboardOrOfficeInABikeContainer
 Just 2 applications of https://www.velove.se/containerisation-last-mile-solution :
-
-2 examples of how this would save time and stress:
-
 1
 Decide to go on holiday, and a few minutes later GO!, because:
 A cupboard in your house has all essentials ready, and this cupboard is build as a container.
