@@ -10,3 +10,5 @@ No jamming it into suitcases, jamming those into your car, and then jamming the 
 2
 A bunch of free-lancers all bring their own 'fold-open office-in-container' to a flex working building, a construction site, nice spot in the park, whatever ...
 Just attach power (if you don't have solar on top) and go!
+
+If way too small, maybe a truck trailer as movable part of house?
