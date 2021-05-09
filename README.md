@@ -2,6 +2,7 @@
 <img src="https://repository-images.githubusercontent.com/150996774/2c634f00-7898-11eb-8f2f-a3b38310987a">
 Just 2 applications of https://www.velove.se/containerisation-last-mile-solution :
 
+
 1 Decide to go on holiday, and a few minutes later GO!, because:
 A cupboard in your house has all essentials ready, and this cupboard is build as a container.
 This container fits on your bike, bike-trailer, or that of a transport agency (DHL for example, who uses the Armadillo to move them)
