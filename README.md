@@ -15,4 +15,4 @@ Just attach power (if you don't have solar on top) and go!
 If you're not a light packer, but a really heavy packer ... maybe a truck trailer as movable part of house?
 Could you use one of those extendable trucks to 'just drive of' with most of your stuff and functionality, park somewhere, and make broader as humans need space.
 
-Just some over-engineering thoughts that exist when annoyed by all the time spent (un)packing :-)
+Just some over-engineering thoughts inspired by annoyance about all the time spent (un)packing :-)
