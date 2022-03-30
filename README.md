@@ -1,9 +1,10 @@
 # popup cargo
 <img src="https://repository-images.githubusercontent.com/150996774/2c634f00-7898-11eb-8f2f-a3b38310987a">
 Just 2 applications of https://www.velove.se/containerisation-last-mile-solution :
-<br><br>
+inside fits a 1m20 x 0m80 standard EU-pallet and a height of about 1m.
 
-1 Decide to go on holiday, and a few minutes later GO!, because:
+1
+Decide to go on holiday, and a few minutes later GO!, because:
 A cupboard in your house has all essentials ready, and this cupboard is build as a container.
 This container fits on your bike, bike-trailer, or that of a transport agency (DHL for example, who uses the Armadillo to move them)
 No jamming it into suitcases, jamming those into your car, and then jamming the content into your vacation bungalow's cupboard
