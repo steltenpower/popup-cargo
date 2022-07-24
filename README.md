@@ -19,3 +19,9 @@ If you're not a light packer, but a really heavy packer ... maybe a truck traile
 Could you use one of those extendable trucks to 'just drive of' with most of your stuff and functionality, park somewhere, and make broader as humans need space.
 
 Just some over-engineering thoughts inspired by annoyance about all the time spent (un)packing :-)
+
+https://mobile.twitter.com/steltenpower/status/1551157880342077441
+@Velovebikes
+ I wonder what solar can do for your product line: cycling in own shade? Powering your office-in-a-fold-open-container? A cooling container (powered by bike or itself). Powering active cooling clothing? Charge phone while navigating? Call solar mobility 
+@SonoMotors
+ ?
