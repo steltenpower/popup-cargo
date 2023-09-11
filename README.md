@@ -25,3 +25,5 @@ https://mobile.twitter.com/steltenpower/status/1551157880342077441
  I wonder what solar can do for your product line: cycling in own shade? Powering your office-in-a-fold-open-container? A cooling container (powered by bike or itself). Powering active cooling clothing? Charge phone while navigating? Call solar mobility 
 @SonoMotors
  ?
+
+ Also: solar panel as shade roof on bike: https://twitter.com/happyactivistnl/status/1701098553425154059
